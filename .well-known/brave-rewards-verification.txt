@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yubari-exp.dev
+Token: fd4663967e0d830f1cd4dd1ebc790b19d243a0e8196400dcb5cdb3f85e2286fe
